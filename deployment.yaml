@@ -16,5 +16,5 @@ spec:
       containers:
       - name: american-predictor
         image: docker.io/wslmac/american-predictor:02
-        ports:2
+        ports:
         - containerPort: 5027
